@@ -1,0 +1,76 @@
+# Hand-labeled benchmark set: product name, then one or more acceptable category paths (tab-separated).
+# Mix of the hard cases from the first runs and a spread of everyday products. Paths are validated
+# against the taxonomy when the benchmark loads, so a typo fails loudly instead of counting as a miss.
+Royal Canin Maxi Adult Dry Dog Food 15 kg	Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Food	Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Food > Non-prescription Dog Food
+Kong Classic Dog Chew Toy Large Red	Animals & Pet Supplies > Pet Supplies > Dog Supplies > Dog Toys
+Catit Flower Fountain 3 L Drinking Fountain for Cats	Animals & Pet Supplies > Pet Supplies > Pet Bowls, Feeders & Waterers
+Ray-Ban Wayfarer Classic Sunglasses RB2140	Apparel & Accessories > Clothing Accessories > Sunglasses
+Nike Air Max 90 Sneakers White Size 42	Apparel & Accessories > Shoes
+Casio G-Shock GA-2100 Men's Watch Black	Apparel & Accessories > Jewelry > Watches
+Levi's 501 Original Fit Men's Jeans Stonewash 32/32	Apparel & Accessories > Clothing > Pants
+Faber-Castell Polychromos Colored Pencils Tin of 36	Office Supplies > Office Instruments > Writing & Drawing Instruments > Pens & Pencils > Pencils > Art Pencils
+Yamaha P-45 Digital Piano 88 Keys	Arts & Entertainment > Hobbies & Creative Arts > Musical Instruments > Electronic Musical Instruments > Musical Keyboards	Arts & Entertainment > Hobbies & Creative Arts > Musical Instruments > Pianos
+Singer Heavy Duty 4423 Sewing Machine	Arts & Entertainment > Hobbies & Creative Arts > Arts & Crafts > Art & Crafting Tools > Textile Craft Machines > Sewing Machines
+Fender Player Stratocaster Electric Guitar Sunset	Arts & Entertainment > Hobbies & Creative Arts > Musical Instruments > String Instruments > Guitars
+Chicco Next2Me Magic Bedside Crib	Furniture > Baby & Toddler Furniture > Cribs & Toddler Beds
+Stokke Tripp Trapp High Chair Natural	Furniture > Baby & Toddler Furniture > High Chairs & Booster Seats
+Pampers Baby Dry Diapers Size 4 Jumbo Pack 76	Baby & Toddler > Diapering > Diapers
+Maxi-Cosi Pebble 360 Infant Car Seat	Baby & Toddler > Baby Transport > Baby & Toddler Car Seats
+3M Aura 9322+ FFP2 Respirator Mask 10 Pack	Business & Industrial > Work Safety Protective Gear > Protective Masks > Gas Masks & Respirators
+Hygienic Nitrile Examination Gloves Box of 100 Size L	Business & Industrial > Medical > Medical Supplies > Disposable Gloves
+Uline Heavy Duty Shipping Boxes 12 x 12 x 12 in 25 Pack	Office Supplies > Shipping Supplies > Moving & Shipping Boxes
+Zebra ZD421 Direct Thermal Barcode Printer	Electronics > Print, Copy, Scan & Fax > Printers, Copiers & Fax Machines
+Dymo LabelWriter 550 Thermal Label Printer	Office Supplies > Office Equipment > Label Makers	Electronics > Print, Copy, Scan & Fax > Printers, Copiers & Fax Machines
+Kodak Portra 400 35mm Film 5 Pack	Cameras & Optics > Camera & Optic Accessories > Camera Parts & Accessories > Camera Film
+Bresser Junior Microscope Set 40x-640x	Business & Industrial > Science & Laboratory > Laboratory Equipment > Microscopes
+Nikon Prostaff P3 10x42 Binoculars	Cameras & Optics > Optics > Binoculars
+Celestron NexStar 8SE Computerized Telescope	Cameras & Optics > Optics > Scopes > Telescopes
+SanDisk Extreme PRO 128 GB SDXC Memory Card	Electronics > Electronics Accessories > Memory > Flash Memory > Flash Memory Cards
+Peak Design Everyday Sling 6L Camera Bag	Cameras & Optics > Camera & Optic Accessories > Camera Parts & Accessories > Camera Bags & Cases
+Apple iPhone 15 Pro 256 GB Natural Titanium	Electronics > Communications > Telephony > Mobile Phones	Electronics > Communications > Telephony > Mobile Phones > Unlocked Mobile Phones
+Sony WH-1000XM5 Wireless Noise Cancelling Headphones	Electronics > Audio > Audio Components > Headphones & Headsets > Headphones
+Bose SoundLink Flex Bluetooth Speaker	Electronics > Audio > Audio Components > Speakers
+Logitech MX Master 3S Wireless Mouse	Electronics > Electronics Accessories > Computer Components > Input Devices > Mice & Trackballs
+Keychron K2 Wireless Mechanical Keyboard	Electronics > Electronics Accessories > Computer Components > Input Devices > Keyboards
+Samsung 990 PRO 2 TB NVMe M.2 SSD	Electronics > Electronics Accessories > Computer Components > Storage Devices > Hard Drives
+Western Digital My Passport 4 TB External Hard Drive	Electronics > Electronics Accessories > Computer Components > Storage Devices > Hard Drives
+HP 305 Black Original Ink Cartridge	Electronics > Print, Copy, Scan & Fax > Printer, Copier & Fax Machine Accessories > Printer Consumables > Toner & Inkjet Cartridges
+Garmin Forerunner 265 GPS Running Smartwatch	Apparel & Accessories > Jewelry > Watches	Health & Beauty > Health Care > Biometric Monitors > Activity Monitors
+Anker PowerCore 20000 mAh Power Bank	Electronics > Electronics Accessories > Power > Batteries > Mobile Phone Batteries	Electronics > Electronics Accessories > Power > Power Adapters & Chargers
+Casio FX-991EX Scientific Calculator	Office Supplies > Office Equipment > Calculators	Office Supplies > Office Equipment > Calculators > Scientific Calculators
+Lavazza Qualità Oro Coffee Beans 1 kg	Food, Beverages & Tobacco > Beverages > Coffee
+Jack Daniel's Old No. 7 Tennessee Whiskey 0.7 L	Food, Beverages & Tobacco > Beverages > Alcoholic Beverages > Liquor & Spirits > Whiskey
+Optimum Nutrition Gold Standard Whey Protein 2.27 kg	Health & Beauty > Health Care > Fitness & Nutrition > Vitamins & Supplements	Health & Beauty > Health Care > Fitness & Nutrition > Nutrition Drinks & Shakes
+Monster Energy Drink 500 ml	Food, Beverages & Tobacco > Beverages > Sports & Energy Drinks
+Herman Miller Aeron Office Chair Size B	Furniture > Office Furniture > Office Chairs
+Emma Original Mattress 140 x 200 cm	Furniture > Beds & Accessories > Mattresses
+Makita DHP482Z 18V Combi Drill Body Only	Hardware > Tools > Drills > Handheld Power Drills
+Paslode Framing Nails 90 mm 2200 Pack	Hardware > Hardware Accessories > Hardware Fasteners > Nails
+Grohe Eurosmart Single Lever Basin Mixer Tap	Hardware > Plumbing > Plumbing Fixtures > Faucets
+Osram LED Tube T8 120 cm 18W	Home & Garden > Lighting > Light Bulbs > LED Light Bulbs	Home & Garden > Lighting > Light Bulbs > Fluorescent Tubes
+Acuvue Oasys Contact Lenses 6 Pack	Health & Beauty > Personal Care > Vision Care > Contact Lenses
+Oral-B iO Series 9 Electric Toothbrush	Health & Beauty > Personal Care > Oral Care > Toothbrushes
+Brita Marella Water Filter Jug 2.4 L	Home & Garden > Kitchen & Dining > Kitchen Appliances > Water Filters
+Brabantia Touch Bin 40 L Matt Steel	Home & Garden > Household Supplies > Waste Containment > Trash Cans & Wastebaskets
+Yankee Candle Large Jar Clean Cotton	Home & Garden > Decor > Home Fragrances > Candles
+Weber Spirit E-325 Gas Barbecue	Home & Garden > Kitchen & Dining > Kitchen Appliances > Outdoor Grills
+Neudorff Organic Slug Pellets 1 kg	Home & Garden > Household Supplies > Pest Control > Pesticides	Home & Garden > Lawn & Garden > Gardening > Disease Control
+Samsonite Proxis Spinner Suitcase 75 cm	Luggage & Bags > Suitcases
+Travel Neck Pillow Memory Foam Grey	Health & Beauty > Personal Care > Sleeping Aids > Travel Pillows
+Luggage Scale Digital 50 kg	Luggage & Bags > Luggage Accessories
+Kids Balance Bike 12 Inch Red	Sporting Goods > Outdoor Recreation > Cycling > Bicycles	Toys & Games > Toys > Riding Toys > Push & Pedal Riding Vehicles
+Lego Star Wars Millennium Falcon 75375	Toys & Games > Toys > Building Toys > Interlocking Blocks
+Catan Board Game Base Edition	Toys & Games > Games > Board Games
+Schwalbe Marathon Plus Bicycle Tire 28 x 1.5	Sporting Goods > Outdoor Recreation > Cycling > Bicycle Parts > Bicycle Tires
+Abus Bordo 6000 Folding Bike Lock	Sporting Goods > Outdoor Recreation > Cycling > Bicycle Accessories > Bicycle Locks
+Thule Motion XT L Roof Box Black	Vehicles & Parts > Vehicle Parts & Accessories > Vehicle Storage & Cargo > Motor Vehicle Carrying Racks > Vehicle Cargo Racks	Vehicles & Parts > Vehicle Parts & Accessories > Vehicle Storage & Cargo
+Snow Chains Size 9 for 16 Inch Wheels	Vehicles & Parts > Vehicle Parts & Accessories > Motor Vehicle Parts > Motor Vehicle Wheel Systems > Motor Vehicle Tire Accessories
+Michelin Pilot Sport 5 Tyre 225/45 R17 94Y	Vehicles & Parts > Vehicle Parts & Accessories > Motor Vehicle Parts > Motor Vehicle Wheel Systems > Motor Vehicle Tires > Automotive Tires
+Dashcam Nextbase 522GW Front Camera	Vehicles & Parts > Vehicle Parts & Accessories > Motor Vehicle Electronics > Motor Vehicle Parking Cameras	Cameras & Optics > Cameras > Video Cameras
+Stabilo Boss Original Highlighters 6 Pack	Office Supplies > Office Instruments > Writing & Drawing Instruments > Markers & Highlighters > Highlighters
+Pelikan Pelikano Fountain Pen for Beginners	Office Supplies > Office Instruments > Writing & Drawing Instruments > Pens & Pencils > Pens
+Moleskine Classic Notebook Large Ruled Black	Office Supplies > General Office Supplies > Paper Products > Notebooks & Notepads
+Holy Bible King James Version Leather Bound	Media > Books > Print Books	Religious & Ceremonial > Religious Items
+Wedding Guest Book with Pen Set Ivory	Religious & Ceremonial > Wedding Ceremony Supplies
+Harry Potter and the Philosopher's Stone Paperback	Media > Books > Print Books
+Microsoft Office Home 2024 Download	Software > Computer Software > Business & Productivity Software	Software > Computer Software > Office Application Software

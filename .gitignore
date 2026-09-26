@@ -1,0 +1,4 @@
+.env
+__pycache__/
+results.csv
+benchmark_results.csv
